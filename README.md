@@ -8,11 +8,11 @@ test their validity and speed, and automatically configure the proxychains comma
 This will eliminate the need for users to manually search for and test proxies, which can be time-consuming and unreliable.
 
 # INSTALLATION 
-#Use git clone https:/github.com/RumixPumix/ProxyAuto in the directory you want to install it.
-#chmod +x ProxyAuto.sh
-#Now to run it simply type: ./ProxyAuto.sh
+- Use git clone https:/github.com/RumixPumix/ProxyAuto in the directory you want to install it.
+- chmod +x ProxyAuto.sh
+- Now to run it simply type: ./ProxyAuto.sh
 
-# INFO
--The script use's a combination of web scraping techniques and proxy testing tools to gather information about free proxies available on the internet.
-It will then test the proxies to ensure that they are working and measure their speed and reliability. 
-Finally, the script will automatically update the proxychains configuration file to include the newly discovered and tested proxies, making them available for immediate use by the user.
+# TODO
+- Merge the 3 py scripts together
+- Add the ability to choose on which targets do the proxies get tested on.
+
