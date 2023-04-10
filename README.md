@@ -1,14 +1,6 @@
 # ProxyAuto
 
-                                       _        
- _ __  _ __ _____  ___   _  __ _ _   _| |_ ___  
-| '_ \| '__/ _ \ \/ / | | |/ _` | | | | __/ _ \ 
-| |_) | | | (_) >  <| |_| | (_| | |_| | || (_) |
-| .__/|_|  \___/_/\_\\__, |\__,_|\__,_|\__\___/ 
-|_|                  |___/                      
 
-                Coded by: rumix
-------------------------------------------------
 
 -This project will include a script that can search for free proxies on the internet,
 test their validity and speed, and automatically configure the proxychains command to use them.
