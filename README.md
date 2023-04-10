@@ -1,12 +1,13 @@
 # ProxyAuto
 
+![image](https://user-images.githubusercontent.com/68914327/230988359-7969f84e-2e79-49d5-91a0-7af9ba5fcb5e.png)
 
 
 -This project will include a script that can search for free proxies on the internet,
 test their validity and speed, and automatically configure the proxychains command to use them.
 This will eliminate the need for users to manually search for and test proxies, which can be time-consuming and unreliable.
 
-INSTALLATION 
+# INSTALLATION 
 #Use git clone https:/github.com/RumixPumix/ProxyAuto in the directory you want to install it.
 #chmod +x ProxyAuto.sh
 #Now to run it simply type: ./ProxyAuto.sh
